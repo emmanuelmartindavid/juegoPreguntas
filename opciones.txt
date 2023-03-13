@@ -1,0 +1,9 @@
+10 5 1
+2 3 4
+Nilo Amazonas Ganje
+1914 1945 1922
+Paris Londres Sidney
+x X Jack-Sparrow
+Scott-Fitzgerald Stephen-King Pablo-Neruda
+O2 S Au
+10 2 3
